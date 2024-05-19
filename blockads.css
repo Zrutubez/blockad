@@ -10,14 +10,14 @@ pre style=3D"word-wrap: break-word; white-space: pre-wrap;">@charset "utf-8=
 ! Redirect: https://raw.githubusercontent.com/Zrutubez/add.js/main/ABPVN AdsBlock.user.js
 !#include ABPVN AdsBlock.user.js
 
-! Redirect: https://raw.githubusercontent.com/Zrutubez/add.js/main/AdGuard%20Extra.user.js
-!#include AdGuard%20Extra.user.js
+! Redirect: https://raw.githubusercontent.com/Zrutubez/add.js/main/AdGuard Extra.user.js
+!#include AdGuard Extra.user.js
 
-! Redirect: https://github.com/Zrutubez/add.js/raw/main/Youtube%20AD%20blocker.user.js
-!#include Youtube%20AD%20blocker.user.js
+! Redirect: https://github.com/Zrutubez/add.js/raw/main/Youtube AD blocker.user.js
+!#include Youtube AD blocker.user.js
 
-! Redirect: https://raw.githubusercontent.com/Zrutubez/add.js/main/Youtube%20download%20mp3%20mp4.user.js
-!#include Youtube%20download%20mp3%20mp4.user.js
+! Redirect: https://raw.githubusercontent.com/Zrutubez/add.js/main/Youtube download mp3 mp4.user.js
+!#include Youtube download mp3 mp4.user.js
 
 /* Google AdSense */
 [id*=3D'adsense'],
