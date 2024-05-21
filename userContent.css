@@ -1,13 +1,4 @@
-From: <Saved by Blink>
-Snapshot-Content-Location: https://raw.githubusercontent.com/Zrutubez/blockad/main/userContent.css
-Subject: 
-Date: Sat, 18 May 2024 13:57:41 +0700
-MIME-Version: 1.0
-
-
-<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
-=3DUTF-8"><meta name=3D"color-scheme" content=3D"light dark"></head><body><=
-pre style=3D"word-wrap: break-word; white-space: pre-wrap;">/*
+/*
  * This file can be used to apply a style to all web pages you view
  * Rules without !important are overruled by author rules if the
  * author sets any.  Rules with !important overrule author rules.
@@ -19,107 +10,104 @@ pre style=3D"word-wrap: break-word; white-space: pre-wrap;">/*
  * links when the link HREF contans certain substrings.
  */
 
-A:link[HREF*=3D"javascript:void"]  IMG,=20
-A:link[HREF*=3D"addata"]  IMG,=20
-A:link[HREF*=3D"ad."]  IMG,=20
-A:link[HREF*=3D"ads."]  IMG,=20
-A:link[HREF*=3D"/ad"]  IMG,=20
-A:link[HREF*=3D"/A=3D"]  IMG,=20
-A:link[HREF*=3D"/click"]  IMG,=20
-A:link[HREF*=3D"?click"]  IMG,=20
-A:link[HREF*=3D"?banner"]  IMG,=20
-A:link[HREF*=3D"=3Dclick"]  IMG,=20
-A:link[HREF*=3D"clickurl=3D"]  IMG,=20
-A:link[HREF*=3D".atwola."]  IMG,=20
-A:link[HREF*=3D"spinbox."]  IMG,=20
-A:link[HREF*=3D"transfer.go"]  IMG,=20
-A:link[HREF*=3D"adfarm"]  IMG,=20
-A:link[HREF*=3D"adSpace"]  IMG,=20
-A:link[HREF*=3D"adserve"]  IMG,=20
-A:link[HREF*=3D".banner"]  IMG,=20
-A:link[HREF*=3D"bluestreak"]  IMG,=20
-A:link[HREF*=3D"doubleclick"]  IMG,=20
-A:link[HREF*=3D"doubleclick"]  IMG,=20
-A:link[HREF*=3D"/rd."]  IMG,=20
-A:link[HREF*=3D"/0AD"]  IMG,=20
-A:link[HREF*=3D".falkag."]  IMG,=20
-A:link[HREF*=3D"trackoffer."]  IMG,=20
-A:link[HREF*=3D"casalemedia."]  IMG,=20
-A:link[HREF*=3D"valueclick."]  IMG,=20
-A:link[HREF*=3D"betterbasketball."]  IMG,=20
-A:link[HREF*=3D"sponsors.phtml"]  IMG,=20
-A:link[HREF*=3D"realgmtix.phtml"]  IMG,=20
-A:link[HREF*=3D"BurstingPipe"]  IMG,
-A:link[HREF*=3D"ebayobjects"]  IMG,
-A:link[HREF*=3D"tracksponsor."]  IMG { display: none ! important }=20
+A:link[HREF*="javascript:void"]  IMG, 
+A:link[HREF*="addata"]  IMG, 
+A:link[HREF*="ad."]  IMG, 
+A:link[HREF*="ads."]  IMG, 
+A:link[HREF*="/ad"]  IMG, 
+A:link[HREF*="/A="]  IMG, 
+A:link[HREF*="/click"]  IMG, 
+A:link[HREF*="?click"]  IMG, 
+A:link[HREF*="?banner"]  IMG, 
+A:link[HREF*="=click"]  IMG, 
+A:link[HREF*="clickurl="]  IMG, 
+A:link[HREF*=".atwola."]  IMG, 
+A:link[HREF*="spinbox."]  IMG, 
+A:link[HREF*="transfer.go"]  IMG, 
+A:link[HREF*="adfarm"]  IMG, 
+A:link[HREF*="adSpace"]  IMG, 
+A:link[HREF*="adserve"]  IMG, 
+A:link[HREF*=".banner"]  IMG, 
+A:link[HREF*="bluestreak"]  IMG, 
+A:link[HREF*="doubleclick"]  IMG, 
+A:link[HREF*="doubleclick"]  IMG, 
+A:link[HREF*="/rd."]  IMG, 
+A:link[HREF*="/0AD"]  IMG, 
+A:link[HREF*=".falkag."]  IMG, 
+A:link[HREF*="trackoffer."]  IMG, 
+A:link[HREF*="casalemedia."]  IMG, 
+A:link[HREF*="valueclick."]  IMG, 
+A:link[HREF*="betterbasketball."]  IMG, 
+A:link[HREF*="sponsors.phtml"]  IMG, 
+A:link[HREF*="realgmtix.phtml"]  IMG, 
+A:link[HREF*="BurstingPipe"]  IMG,
+A:link[HREF*="ebayobjects"]  IMG,
+A:link[HREF*="tracksponsor."]  IMG { display: none ! important } 
 
 /* disable ad iframes */
-IFRAME[SRC*=3D"addata"],
-IFRAME[SRC*=3D"ad."],
-IFRAME[SRC*=3D"ads."],
-IFRAME[SRC*=3D"/ad"],
-IFRAME[SRC*=3D"/A=3D"],
-IFRAME[SRC*=3D"/click"],
-IFRAME[SRC*=3D"?click"],
-IFRAME[SRC*=3D"?banner"],
-IFRAME[SRC*=3D"=3Dclick"],
-IFRAME[SRC*=3D"clickurl=3D"],
-IFRAME[SRC*=3D".atwola."],
-IFRAME[SRC*=3D"spinbox."],
-IFRAME[SRC*=3D"transfer.go"],
-IFRAME[SRC*=3D"adfarm"],
-IFRAME[SRC*=3D"adSpace"],
-IFRAME[SRC*=3D"adserve"],
-IFRAME[SRC*=3D"adjuggler"],
-IFRAME[SRC*=3D".banner"],
-IFRAME[SRC*=3D"bluestreak"],
-IFRAME[SRC*=3D"doubleclick"],
-IFRAME[SRC*=3D"/rd."],
-IFRAME[SRC*=3D"/0AD"],
-IFRAME[SRC*=3D".falkag."],=20
-IFRAME[SRC*=3D"trackoffer."],
-IFRAME[SRC*=3D"connextra."],
-IFRAME[ID*=3D"merchandisingMERC"],
-IFRAME[SRC*=3D"tracksponsor."]  { display: none ! important }=20
+IFRAME[SRC*="addata"],
+IFRAME[SRC*="ad."],
+IFRAME[SRC*="ads."],
+IFRAME[SRC*="/ad"],
+IFRAME[SRC*="/A="],
+IFRAME[SRC*="/click"],
+IFRAME[SRC*="?click"],
+IFRAME[SRC*="?banner"],
+IFRAME[SRC*="=click"],
+IFRAME[SRC*="clickurl="],
+IFRAME[SRC*=".atwola."],
+IFRAME[SRC*="spinbox."],
+IFRAME[SRC*="transfer.go"],
+IFRAME[SRC*="adfarm"],
+IFRAME[SRC*="adSpace"],
+IFRAME[SRC*="adserve"],
+IFRAME[SRC*="adjuggler"],
+IFRAME[SRC*=".banner"],
+IFRAME[SRC*="bluestreak"],
+IFRAME[SRC*="doubleclick"],
+IFRAME[SRC*="/rd."],
+IFRAME[SRC*="/0AD"],
+IFRAME[SRC*=".falkag."], 
+IFRAME[SRC*="trackoffer."],
+IFRAME[SRC*="connextra."],
+IFRAME[ID*="merchandisingMERC"],
+IFRAME[SRC*="tracksponsor."]  { display: none ! important } 
 
 
-/* miscellaneous different blocking rules to block some stuff that gets thr=
-ough */
+/* miscellaneous different blocking rules to block some stuff that gets through */
 
-A:link[onmouseover*=3D"AdSolution"] IMG,
-*[class=3Dsponsors],
-*[class=3Dsp_links],
-*[class=3Dadvertising],
-*[ID=3Dsponsors],
-*[ID=3Dad],
-*[ID=3Dinlinead],
-*[ID=3Dad_creative],
-*[ID=3DcontextualLinks],
-IMG[SRC*=3D".msads."] { display: none ! important }=20
+A:link[onmouseover*="AdSolution"] IMG,
+*[class=sponsors],
+*[class=sp_links],
+*[class=advertising],
+*[ID=sponsors],
+*[ID=ad],
+*[ID=inlinead],
+*[ID=ad_creative],
+*[ID=contextualLinks],
+IMG[SRC*=".msads."] { display: none ! important } 
 
 
 /* turning some false positives back off */
 
-A:link[HREF*=3D"/add"]  IMG,=20
-A:link[HREF*=3D"/adsl"] IMG,
-A:link[HREF*=3D"thread."] IMG,
-A:link[HREF*=3D"download."] IMG,
-A:link[HREF*=3D"downloads."] IMG,
-A:link[HREF*=3D"netflix.com/AddToQueue"] IMG,
-A:link[HREF*=3D"load."],=20
-A:link[HREF*=3D"loads."],=20
-IFRAME[SRC*=3D"load."],=20
-IFRAME[SRC*=3D"loads."],
-A:link[HREF*=3D"click.mp3"] IMG { display: inline ! important }
+A:link[HREF*="/add"]  IMG, 
+A:link[HREF*="/adsl"] IMG,
+A:link[HREF*="thread."] IMG,
+A:link[HREF*="download."] IMG,
+A:link[HREF*="downloads."] IMG,
+A:link[HREF*="netflix.com/AddToQueue"] IMG,
+A:link[HREF*="load."], 
+A:link[HREF*="loads."], 
+IFRAME[SRC*="load."], 
+IFRAME[SRC*="loads."],
+A:link[HREF*="click.mp3"] IMG { display: inline ! important }
 
-/*=20
+/* 
  * For more examples see http://www.mozilla.org/unix/customizing.html
  */
 
 /* kill old Facebook boxes */
-DIV[id*=3D"pagelet_adbox"],
-DIV[id*=3D"pagelet_pymkbox"],
-DIV[id*=3D"pagelet_adbox"],
-DIV[id*=3D"pagelet_connectbox"] { display: none ! important }
-</pre></body></html>
-------MultipartBoundary--gtxMm0i9pcVL5tKOkjqV6jQVfrHq1E7FwMk9Jtq7wY------
+DIV[id*="pagelet_adbox"],
+DIV[id*="pagelet_pymkbox"],
+DIV[id*="pagelet_adbox"],
+DIV[id*="pagelet_connectbox"] { display: none ! important }
