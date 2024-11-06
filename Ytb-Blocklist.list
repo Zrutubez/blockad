@@ -108,6 +108,8 @@
 # YouTube Ads
  ads.youtube.com
  ad.youtube.com
+play.google.com/log?format=json&hasfast=true
+m.youtube.com/api/stats/watchtime
 
 # Alexa Metrics
  certify-js.alexametrics.com
