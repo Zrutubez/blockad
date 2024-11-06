@@ -1,7 +1,6 @@
 // ==UserScript==
 // @name         Block Ads Websites
-// @namespace    https://greasyfork.org/en/users/744284-moatazomr
-// @version      0.6
+// @version      0.1
 // @description  Blocks Ads to websites !
 // @author       Moataz Omar
 // @match        *://*/*
