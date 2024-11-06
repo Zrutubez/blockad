@@ -10,8 +10,8 @@
 // @compatible   Edge
 // @grant        none
 // @copyright    GPL
-// @downloadURL 
-// @updateURL 
+// @downloadURL https://raw.githubusercontent.com/Zrutubez/blockad/refs/heads/main/Block Websites.js
+// @updateURL https://raw.githubusercontent.com/Zrutubez/blockad/refs/heads/main/Block Websites.js
 // ==/UserScript==
 
 
