@@ -108,10 +108,11 @@
 # YouTube Ads
  ads.youtube.com
  ad.youtube.com
-play.google.com/log?format=json&hasfast=true
+play.google.com/
 m.youtube.com/api/stats/watchtime
 www.youtube.com/pcs/activeview
 www.google.com/pagead/
+www.youtube.com/pagead/adview
 
 # Alexa Metrics
  certify-js.alexametrics.com
