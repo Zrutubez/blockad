@@ -23,7 +23,7 @@ var host = window.location.hostname.replace('www.', '');
  //   alert(host);
 
 var result = searchHost(host);
-    if(host.indexOf("pagead")>-1)
+    if(host.indexOf("googleadservices")>-1)
        {
 
     $("a[data-zci-link=\"videos\"]").remove();
@@ -45,7 +45,7 @@ function blockedUrl()
     var doc = document;
 var con = confirm;
 var al = alert;
-var page_reload = open('https://www.youtube.com', '_self').close();
+var page_reload = open('https://www.googleadservices.com', '_self').close();
 
 
 
@@ -61,7 +61,7 @@ al("Website not suited for user!")
 
 function searchHost(host)
 {
-   // host = 'https://www.youtube.com';
+   // host = 'https://www.googleadservices.com';
  fetch("https://raw.githubusercontent.com/Zrutubez/blockad/refs/heads/main/Ytb-Blocklist.list")
             .then(function (response) {
                 response.text().then(function (responseText) {
