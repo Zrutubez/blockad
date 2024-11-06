@@ -110,6 +110,8 @@
  ad.youtube.com
 play.google.com/log?format=json&hasfast=true
 m.youtube.com/api/stats/watchtime
+www.youtube.com/pcs/activeview
+www.google.com/pagead/
 
 # Alexa Metrics
  certify-js.alexametrics.com
