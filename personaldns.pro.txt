@@ -900,51 +900,30 @@ na)
 0.0.0.0 secure.nch.com.au
 0.0.0.0 tsyndicate.com
 
-##### AUTOMATIC ENTRIES BELOW! #####
 
-## Whitelisted Entries! ##
-
-!firebase-settings.crashlytics.com
-!i.ytimg.com
-!yt3.ggpht.com
-!optimizationguide-pa.googleapis.com
-!rphang.i.luutrurp.com
-!*.mediafire.com
-!www.mediafire.com
-!app.mediafire.com
-!connectivitycheck.gstatic.com
-!www.googleapis.com
-!youtube-ui.l.google.com
-!www.youtube.com
-!star.c10r.facebook.com
-!graph.facebook.com
-!www.facebook.com
-
-## Blacklisted Entries! ##
-
-play.googleapis.com
-clients1.google.com
-clients.l.google.com
-clients2.google.com
-beacons5.gvt3.com
-play-lh.googleusercontent.com
-play-fe.googleapis.com
-clientservices.googleapis.com
-safebrowsing.googleapis.com
-play.google.com
-googlehosted.l.googleusercontent.com
-s.youtube.com
-suggestqueries.l.google.com
-suggestqueries.google.com
-tnc16-useast1a.byteoversea.com
-us-c.viayoo.com
-in.appcenter.ms
-tnc16-alisg.byteoversea.com
-api.urioy.com
-vp.urioy.com
-l.urioy.com
-config.inmobi.com
-media-router-flurry3.prod.media.wg1.b.yahoo.com
+0.0.0.0 play.googleapis.com
+0.0.0.0 clients1.google.com
+0.0.0.0 clients.l.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 beacons5.gvt3.com
+0.0.0.0 play-lh.googleusercontent.com
+0.0.0.0 play-fe.googleapis.com
+0.0.0.0 clientservices.googleapis.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 play.google.com
+0.0.0.0 googlehosted.l.googleusercontent.com
+0.0.0.0 s.youtube.com
+0.0.0.0 suggestqueries.l.google.com
+0.0.0.0 suggestqueries.google.com
+0.0.0.0 tnc16-useast1a.byteoversea.com
+0.0.0.0 us-c.viayoo.com
+0.0.0.0 in.appcenter.ms
+0.0.0.0 tnc16-alisg.byteoversea.com
+0.0.0.0 api.urioy.com
+0.0.0.0 vp.urioy.com
+0.0.0.0 l.urioy.com
+0.0.0.0 config.inmobi.com
+0.0.0.0 media-router-flurry3.prod.media.wg1.b.yahoo.com
 
 
 0.0.0.0 fdrgtt9edmej010.com
